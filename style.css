@@ -241,6 +241,19 @@
 }
 @media screen and (max-width:500px)
 {
+    .header
+    {
+        height: 30%;
+    }
+    .header img 
+    {
+        width: 45%;
+        height: 50%;
+    }
+    .button-action
+    {
+        font-size: 2em;
+    }
     #element1
     {
         font-size: 2em;
