@@ -27,7 +27,7 @@
 {
     display:flex;
     flex-direction: row-reverse;
-    font-size: 2em;
+    font-size: 3em;
 }
 .button-action i
 {
@@ -252,7 +252,7 @@
     }
     .button-action
     {
-        font-size: 1em;
+        font-size: 2em;
     }
     #element1
     {
