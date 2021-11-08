@@ -256,7 +256,13 @@
     }
     #element1
     {
-        font-size: 2em;
+        font-size: 1.5em;
+    }
+    #element3
+    {
+        margin-top: 20%;
+        width: 115%;
+        height: 60%;
     }
     .article
     {
@@ -270,7 +276,7 @@
     }
     .patte-btn p
     {
-        margin-top: -8%;
-        margin-left: 45%;
+        margin-top: -10%;
+        margin-left: 52%;
     }
 }
