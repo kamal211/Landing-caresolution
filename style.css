@@ -10,9 +10,9 @@
     display: flex;
     height: 400px;
     background-image: linear-gradient(to right top, #a95e6d, #bb7584, #ce8d9b, #e0a5b3, #f2becb);
-    -webkit-box-shadow: -2px -1px 15px 7px rgba(0,0,0,0.5);
-    -moz-box-shadow: -3px -2px 30px 14px rgba(0,0,0,0.425);
-    box-shadow: 10px 10px -10px 21px rgba(0,0,0,0.35);
+    -webkit-box-shadow: -2px -1px 15px 7px  #a95e6d;
+    -moz-box-shadow: -3px -2px 30px 14px  #a95e6d;
+    box-shadow: 10px 10px -10px 21px #a95e6d;
 }
     
 .header img
